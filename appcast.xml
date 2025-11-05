@@ -3,6 +3,14 @@
     <channel>
         <title>ContextDock</title>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Wed, 05 Nov 2025 16:08:18 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://www.daniplata.com/ContextDockUpdates/ContextDock-1.0.3.zip" length="3348085" type="application/octet-stream" sparkle:edSignature="cdlS9SYyxN0ZQ1pyXl0skP5tHIekReTjLreolong9aJ70H/dVlqDBzCPRswAxtgaJhrNoGrKUdOUoTGVrBCoAQ=="/>
+        </item>
+        <item>
             <title>1.0.2</title>
             <pubDate>Wed, 05 Nov 2025 15:45:44 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
